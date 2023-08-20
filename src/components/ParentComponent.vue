@@ -4,7 +4,7 @@ import ChildComponent from './ChildComponent.vue';
 
 const persons = reactive({
   'name'  : 'Suman',
-  'age'   : 26,
+  'age'   : 31,
   'message'   : 'hey im a web developer with 4 years of experience'
 });
 </script>
